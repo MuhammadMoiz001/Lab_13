@@ -22,8 +22,8 @@ public class billPayment implements bank{
 		
 	}
 
-	@Override
-	public void loan_Takers() {
+	// @Override
+	//public void loan_Takers() {
 		// TODO Auto-generated method stub
 		
 	}
